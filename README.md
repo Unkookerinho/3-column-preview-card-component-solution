@@ -8,5 +8,5 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL: https://www.frontendmentor.io/solutions/3-column-preview-card-responsive-flexbox-jBFkWuVjUA
+- Live Site URL: https://unkookerinho.github.io/3-column-preview-card-component-solution/
